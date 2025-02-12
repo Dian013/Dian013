@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Salut, moi c'est Dian !
+✨ Bienvenue sur mon profil GitHub ! ✨
 
-todo
-
-**Dian013/Dian013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔍 À propos de moi
+🔭 Actuellement, je travaille sur : un site vitrine et un logiciel pour réaliser des devis.
+🌱 J’apprends en ce moment : HTML, CSS, JavaScript, PHP et SQL.
+🤝 Je ne cherche pas à collaborer pour l’instant.
+🎯 Je suis en recherche de stage (si tu as un bon plan, je suis preneur ! 😄).
+💬 Mes compétences sont encore en développement, mais je suis motivé à progresser !
+📫 Me contacter
+📍 GitHub : Dian013
+🔗 LinkedIn : Dian Mavrodiev
